@@ -55,6 +55,10 @@ header p {
   background-image: url('data/2016-02-23 10.30.09_b.jpg');
 }
 
+.jumbotron.research {
+  background-image: url('data/Snap-154_c1+2+3.jpg');
+}
+
 section .row img {
   margin: 0 0 30px;
   width: 100%;
